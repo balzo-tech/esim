@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>France on Travel Tips</title>
+    <link>//localhost:1313/tags/france/</link>
+    <description>Recent content in France on Travel Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 16:26:32 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/france/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parisian Weekend Escape: Conquer the City of Lights in 48 Hours</title>
+      <link>//localhost:1313/posts/parisian-weekend-escape-conquer-the-city-of-lights-in-48-hours/</link>
+      <pubDate>Mon, 11 Mar 2024 16:26:32 +0100</pubDate>
+      <guid>//localhost:1313/posts/parisian-weekend-escape-conquer-the-city-of-lights-in-48-hours/</guid>
+      <description>Dreaming of a Parisian escape but short on time? This curated itinerary unlocks the magic of the City of Lights in just two action-packed days. Devour iconic landmarks like the Louvre and Eiffel Tower, then delve deeper into Parisian charm with hidden gems like Montmartre. Foodies can tantalize their taste buds at local markets and on a luxurious Seine River dinner cruise.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Travel on Travel Tips</title>
+    <link>//localhost:1313/tags/travel/</link>
+    <description>Recent content in Travel on Travel Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 17:11:04 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>eSim Starter Guide: Everything You Need to Know</title>
+      <link>//localhost:1313/posts/esimstarter-guide-everything-you-need-to-know/</link>
+      <pubDate>Mon, 11 Mar 2024 17:11:04 +0100</pubDate>
+      <guid>//localhost:1313/posts/esimstarter-guide-everything-you-need-to-know/</guid>
+      <description>This guide dives into the world of eSIMs, the digital alternative to traditional SIM cards. Learn everything you need to know to get started</description>
+    </item>
+  </channel>
+</rss>

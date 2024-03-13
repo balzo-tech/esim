@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Germany on Travel Tips</title>
+    <link>//localhost:1313/tags/germany/</link>
+    <description>Recent content in Germany on Travel Tips</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Mar 2024 17:24:20 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/germany/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berlin Blitz: Conquer the Capital in 48 Hours</title>
+      <link>//localhost:1313/posts/berlin-blitz-conquer-the-capital-in-48-hours/</link>
+      <pubDate>Mon, 11 Mar 2024 17:24:20 +0100</pubDate>
+      <guid>//localhost:1313/posts/berlin-blitz-conquer-the-capital-in-48-hours/</guid>
+      <description>Discover Florence in 3 days with this art and food lover&amp;#39;s guide. Immerse in Renaissance art at the Uffizi and Accademia, indulge in Tuscan cuisine at local markets, and explore iconic landmarks. Perfect for couples seeking a blend of culture, history, and gastronomy in Italy&amp;#39;s heart.</description>
+    </item>
+  </channel>
+</rss>
